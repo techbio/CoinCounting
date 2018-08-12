@@ -1,3 +1,13 @@
+/*
+
+The coin-counting approach central metaphor begins with
+suspending common usage and
+assuming "coins" face values are denominated by the
+polynomial solutions to the
+proposed problem's answer space.
+
+*/
+
 // usage: node coin_counter.js <p(x)> <x>
 
 const args = process.argv.slice(2);
